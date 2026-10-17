@@ -4,6 +4,7 @@ Costo: $0.00
 """
 import pulumi
 import pulumi_docker as docker
+
 # 1. Lectura y validacion de la configuracion del stack
 config = pulumi.Config()
 group_id = config.get("groupId") or "grupo01"
