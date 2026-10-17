@@ -1,0 +1,6 @@
+config:
+  lab02-iac-pulumi:environment: dev
+  lab02-iac-pulumi:groupId: grupo01
+  lab02-iac-pulumi:hostPort: "8090"
+  lab02-iac-pulumi:nginxVersion: 1.27-alpine
+encryptionsalt: v1:HvdLOMgaHCw=:v1:GDbYQVpuJ6Ww9n0o:ahLDqIM2kt7FV0/rHS93mVzXa0NE+g==
